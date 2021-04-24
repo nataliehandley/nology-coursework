@@ -89,7 +89,7 @@ a:visited {
 }
 
 .end {
-  height: 30vh;
+  height: 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -128,7 +128,7 @@ a:visited {
 }
 
 .main {
-  height: 50vh;
+  height: 60vh;
   background-color: #28527a;
   display: flex;
   justify-content: center;
