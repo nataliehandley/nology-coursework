@@ -89,7 +89,11 @@ a:visited {
 }
 
 .end {
+<<<<<<< HEAD
   height: 50vh;
+=======
+  height: 30vh;
+>>>>>>> 94dd55ce9f0568856b8d12306aa8e5ebbcd2e28c
   display: flex;
   justify-content: center;
   align-items: center;
@@ -128,7 +132,11 @@ a:visited {
 }
 
 .main {
+<<<<<<< HEAD
   height: 60vh;
+=======
+  height: 50vh;
+>>>>>>> 94dd55ce9f0568856b8d12306aa8e5ebbcd2e28c
   background-color: #28527a;
   display: flex;
   justify-content: center;
